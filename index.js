@@ -5,4 +5,3 @@ function writeCards () {
   }
   return thankYouCards
 }
-
