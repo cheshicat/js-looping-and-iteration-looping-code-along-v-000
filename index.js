@@ -10,4 +10,5 @@ function writeCards ( namesArray, event ) {
      console.log( countdown );
      countdown -= 1;
    }
+   console.log( countdown );
  }
