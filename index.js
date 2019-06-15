@@ -5,3 +5,6 @@ function writeCards ( namesArray, event ) {
   }
   return thankYouCards
 }
+ function countdown () {
+
+ }
